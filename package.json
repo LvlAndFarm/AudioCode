@@ -1,0 +1,28 @@
+{
+  "name": "audiocode",
+  "version": "0.0.1",
+  "description": "An IDE based on PizzicatoJS that enables you to seamlessly code, import and export sounds and audio files using pure JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvlandfarm/AudioCode.git"
+  },
+  "keywords": [
+    "pizzicato",
+    "javascript",
+    "js",
+    "ide",
+    "code",
+    "audio",
+    "sound"
+  ],
+  "author": "Walid Nawfal Sabihi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvlandfarm/AudioCode/issues"
+  },
+  "homepage": "https://github.com/lvlandfarm/AudioCode#readme"
+}
